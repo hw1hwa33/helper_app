@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project_Helper</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">대쉬보드</string>
+    <string name="title_notifications">알람</string>
+    <string name="drawer_open">메뉴 열기</string>
+    <string name="drawer_close">메뉴 닫기</string>
+
+</resources>

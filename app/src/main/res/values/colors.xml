@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--컬러 코드 참조 링크 https://yeun.github.io/open-color-->
+<resources>
+    <color name="yellow1">#fff3bf</color>
+    <color name="yellow3">#ffe066</color>
+    <color name="yellow4">#ffd43b</color>
+    <color name="blue1">#d0ebff</color>
+    <color name="blue2">#a5d8ff</color>
+    <color name="red7">#f03e3e</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
